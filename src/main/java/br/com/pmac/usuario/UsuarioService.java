@@ -37,8 +37,6 @@ public class UsuarioService {
 	public Usuario get(@PathParam("id") String id) {
 		Usuario usuario = new Usuario();
 
-		System.out.println("dentro!");
-		
 		usuario.setId(Integer.valueOf(id));
 		usuario.setEmail("email" + id + "@email.com");
 		usuario.setNome("Usuario " + id);
