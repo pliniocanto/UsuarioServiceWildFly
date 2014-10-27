@@ -5,4 +5,4 @@ Simple example of REST in WildFly
 
 sdfg
 
-[Funcionalidade x](Funcionalidade-X)
+[API 1](https://github.com/pliniocanto/UsuarioServiceWildFly/wiki/API-em-pagina-so)
